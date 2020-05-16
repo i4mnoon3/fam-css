@@ -1,6 +1,6 @@
 # fam-css
 
-Kudos to [famfamfam](http://www.famfamfam.com/) icons for creating simple yet beautiful icons. 
+Kudos to [famfamfam](http://www.famfamfam.com/) for creating simple yet beautiful icons. 
 
 ### install
 
