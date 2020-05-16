@@ -1,0 +1,17 @@
+.fam {
+  width: 16px;
+  height: 16px;
+  display: inline-block;
+}
+.fam-folder-add {
+  background: url('../img/folder_add.png');
+}
+.fam-folder-go {
+  background: url('../img/folder_go.png');
+}
+.fam-user-add {
+  background: url('../img/user_add.png');
+}
+.fam-user-go {
+  background: url('../img/user_go.png');
+}
