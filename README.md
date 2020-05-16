@@ -17,4 +17,6 @@ $ bower install iescarro/fam-css --save
 <a href=""><i class="fam fam-folder-add"></i> Add directory</a>
 ```
 
+![Sample](https://github.com/iescarro/fam-css/blob/master/etc/sample.png "Sample")
+
 Icons are prefixed with fam. See img directory for all famfamfam icons.
