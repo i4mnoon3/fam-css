@@ -1,8 +1,12 @@
 # fam-css
 
+### install
+
 ```
 $ bower install iescarro/fam-css --save
 ```
+
+### usage
 
 ```html
 <link rel="stylesheet" href="bower_components/fam-css/css/fam.css">
