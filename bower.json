@@ -1,0 +1,17 @@
+{
+  "name": "fam-css",
+  "homepage": "https://github.com/iescarro/fam-css",
+  "authors": [
+    "Ian Escarro <ian.escarro@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
