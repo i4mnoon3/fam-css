@@ -14,7 +14,7 @@ $ bower install iescarro/fam-css --save
 <link rel="stylesheet" href="bower_components/fam-css/css/fam.css">
 
 <!-- sample -->
-<a href=""><i class="fam fam-folder-add"></i> Add directory</a>
+<a href=""><i class="fam fam-accept"></i> Add directory</a>
 ```
 
 ![Sample](https://github.com/iescarro/fam-css/blob/master/etc/sample.png "Sample")
